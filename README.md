@@ -83,3 +83,4 @@ flowchart TD
     B --Exit--> E(["Stop"])
 ```
 ### Prompts
+In viewCatalog.py, create equivalent viewCourseCatalog() program in python based on the Main.java and EnrollmentSystem.java
